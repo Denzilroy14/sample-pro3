@@ -1,6 +1,6 @@
 '''Project name:-MUltiple file uploader
 
-Date of publish:-25/08/24
+Date of publish:-29/08/24
 
 Author:-Denzil Roy.I
 
