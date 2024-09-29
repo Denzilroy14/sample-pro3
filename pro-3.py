@@ -1,13 +1,17 @@
-'''Project name:-MUltiple file uploader
+'''        Mini-project-1
+Name:-Multiple file uploaded
+Author:- Denzil Roy.I
+About:-
+A multiple file uploaded that allows user to upload multiple files on a website or an app etc....
 
-Date of publish:-29/08/24
+Features:
+1.Can upload multiple files 
+2.Download uploaded files
 
-Author:-Denzil Roy.I
-
-About:-A mini project to upload multiple files using
-flask in python
-
-@COPYRIGHTS RESERVED www.github.com/Denzilroy14'''
+@COPYRIGHT-www.github.com//Denzilroy14(NOTE:- THIS PROJECT CONTAINS THE LICENSCE FOR 
+WHICH IF USED WITHOUT PERMISSION OF AUTHOR WOULD BE CHARGED PENALTY)
+FOR MORE QUERIES CONTACT @denzilroy80@gmail.com
+'''
 from flask import*
 import sqlite3
 app=Flask(__name__)
